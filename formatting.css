@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Source+Sans+Pro:300,400,700,900');
+
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+}
+
+h1, h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+h3, h4 {
+    font-weight: 400;
+}
+
+p {
+    line-height: 2em;
+    word-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.wrapper {
+    width: 65%;
+    margin: auto;
+}
+
+#heading {
+    text-align:center;
+}
+
+img {
+    width: 240px;
+}
+
+#pokeContainer1, #pokeContainer2, #pokeContainer3, #pokeContainer4 {
+    margin: 100px 0px 20px;
+}
+
+
+footer {
+    font-size: 12px;
+    margin-bottom: 40px;
+    font-style: italic;
+}
